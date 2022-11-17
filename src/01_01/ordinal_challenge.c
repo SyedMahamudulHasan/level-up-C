@@ -2,10 +2,7 @@
 
 char *ordinal(int v)
 {
-	/*
-	   - create this function
-	   - this code won't run with out it!
-	 */
+	
 }
 
 int main()
